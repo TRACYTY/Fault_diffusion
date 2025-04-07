@@ -1,0 +1,295 @@
+==> torch version: 2.4.1+cu121
+==> cudnn version: 90100
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.4.1+cu121
+==> cudnn version: 90100
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.4.1+cu121
+==> cudnn version: 90100
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: False
+==> torch version: 2.4.1+cu121
+==> cudnn version: 90100
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--pretrained_path', './Checkpoints_PSM_pre_training_24/checkpoint-10.pt']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: False
+==> torch version: 2.4.1+cu121
+==> cudnn version: 90100
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--pretrained_path', './Checkpoints_PSM_pre_training_24/checkpoint-10.pt']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: False
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True
+==> torch version: 2.0.1+cu117
+==> cudnn version: 8500
+==> Cmd:
+['main.py', '--name', 'PSM_pre_training', '--config_file', './Config/PSM_pre_training.yaml', '--train']
+==> args:
+  config_file: ./Config/PSM_pre_training.yaml
+  cudnn_deterministic: False
+  fault_data: None
+  finetune: False
+  finetune_path: None
+  gpu: None
+  milestone: 3
+  missing_ratio: 0.0
+  mode: infill
+  name: PSM_pre_training
+  opts: []
+  output: OUTPUT
+  pred_len: 0
+  pretrained_path: None
+  sample: 0
+  save_dir: OUTPUT/PSM_pre_training
+  seed: 12345
+  size_every: 2001
+  tensorboard: False
+  train: True

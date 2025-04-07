@@ -1,0 +1,118 @@
+2025-03-20-11-58: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-20-11-58: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-20-12-02: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-20-12-02: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-20-12-03: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-20-12-03: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-20-12-08: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-20-12-08: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-20-12-08: Loaded checkpoint at step 18000
+2025-03-20-12-08: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-20-12-09: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-20-12-09: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-20-12-09: Loaded checkpoint at step 18000
+2025-03-20-12-09: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-20-12-19: Finetuning done, time: 585.20
+2025-03-20-12-19: Save current model to Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-20-12-25: {'overall': {'trainable': '3.22K', 'non_trainable': '362.21K', 'total': '365.43K'}, 'model': {'trainable': '0', 'non_trainable': '362.21K', 'total': '362.21K'}, 'local_adapter': {'trainable': '3.22K', 'non_trainable': '0', 'total': '3.22K'}}
+2025-03-20-12-25: Resume from ./Checkpoints_PSM_T1_finetuning/finetuned_checkpoint-10.pt
+2025-03-20-12-26: {'overall': {'trainable': '3.22K', 'non_trainable': '362.21K', 'total': '365.43K'}, 'model': {'trainable': '0', 'non_trainable': '362.21K', 'total': '362.21K'}, 'local_adapter': {'trainable': '3.22K', 'non_trainable': '0', 'total': '3.22K'}}
+2025-03-20-12-26: Resume from ./Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-20-12-26: Loaded checkpoint at step 20000
+2025-03-20-12-26: Begin to sample...
+2025-03-20-12-26: {'overall': {'trainable': '3.22K', 'non_trainable': '362.21K', 'total': '365.43K'}, 'model': {'trainable': '0', 'non_trainable': '362.21K', 'total': '362.21K'}, 'local_adapter': {'trainable': '3.22K', 'non_trainable': '0', 'total': '3.22K'}}
+2025-03-20-12-26: Resume from ./Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-20-12-26: Loaded checkpoint at step 20000
+2025-03-20-12-26: Begin to sample...
+2025-03-20-12-28: Sampling done, time: 65.69
+2025-03-25-14-19: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-25-14-19: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-25-14-19: Loaded checkpoint at step 18000
+2025-03-25-14-22: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-25-14-22: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-25-14-22: Loaded checkpoint at step 18000
+2025-03-25-14-22: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-25-14-29: Finetuning done, time: 435.84
+2025-03-25-14-29: Save current model to Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-25-14-29: {'overall': {'trainable': '3.22K', 'non_trainable': '362.21K', 'total': '365.43K'}, 'model': {'trainable': '0', 'non_trainable': '362.21K', 'total': '362.21K'}, 'local_adapter': {'trainable': '3.22K', 'non_trainable': '0', 'total': '3.22K'}}
+2025-03-25-14-29: Resume from ./Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-25-14-29: Loaded checkpoint at step 20000
+2025-03-25-14-29: Begin to sample...
+2025-03-25-14-30: Sampling done, time: 24.30
+2025-03-27-23-03: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-03: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-09: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-09: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-09: Loaded checkpoint at step 18000
+2025-03-27-23-09: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-14: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-14: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-14: Loaded checkpoint at step 18000
+2025-03-27-23-14: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-17: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-17: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-17: Loaded checkpoint at step 18000
+2025-03-27-23-17: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-30: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-30: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-30: Loaded checkpoint at step 18000
+2025-03-27-23-30: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-37: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-37: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-37: Loaded checkpoint at step 18000
+2025-03-27-23-37: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-40: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-42: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-42: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-42: Loaded checkpoint at step 18000
+2025-03-27-23-42: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-51: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-51: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-51: Loaded checkpoint at step 18000
+2025-03-27-23-51: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-52: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-52: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-52: Loaded checkpoint at step 18000
+2025-03-27-23-52: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-27-23-54: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-54: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-54: Loaded checkpoint at step 18000
+2025-03-27-23-54: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-27-23-54: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-27-23-54: Loaded checkpoint at step 18000
+2025-03-27-23-54: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-28-00-18: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-28-00-18: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-28-00-18: Loaded checkpoint at step 18000
+2025-03-28-00-18: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-28-00-20: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-28-00-20: Resume from ./Checkpoints_PSM_pre_training_24/checkpoint-10.pt
+2025-03-28-00-20: Loaded checkpoint at step 18000
+2025-03-28-00-20: PSM_T1_finetuning: start finetuning with local attention and KL...
+2025-03-28-00-27: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-18500.pt
+2025-03-28-00-33: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-19000.pt
+2025-03-28-00-39: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-19500.pt
+2025-03-28-00-46: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-20000.pt
+2025-03-28-00-52: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-20500.pt
+2025-03-28-00-59: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-21000.pt
+2025-03-28-01-05: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-21500.pt
+2025-03-28-01-12: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-22000.pt
+2025-03-28-01-18: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-22500.pt
+2025-03-28-01-25: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-23000.pt
+2025-03-28-01-25: Save current model to Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-23000-final.pt
+2025-03-28-01-25: Finetuning done, time: 3856.77
+2025-03-28-01-25: Save current model to Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-20.pt
+2025-03-28-09-43: {'overall': {'trainable': '40.88K', 'non_trainable': '362.21K', 'total': '403.08K'}, 'model': {'trainable': '0', 'non_trainable': '362.21K', 'total': '362.21K'}, 'local_adapters': {'trainable': '40.88K', 'non_trainable': '0', 'total': '40.88K'}}
+2025-03-28-09-43: Resume from ./Checkpoints_PSM_T1_finetuning_24/finetuned_checkpoint-10.pt
+2025-03-28-09-44: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-28-09-44: Resume from ./Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-23000.pt
+2025-03-28-10-10: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-28-10-10: Resume from ./Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-23000.pt
+2025-03-28-10-10: Loaded checkpoint at step 23000
+2025-03-28-10-10: Begin to sample...
+2025-03-28-10-11: Sampling done, time: 60.97
+2025-03-28-14-53: {'overall': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}, 'model': {'trainable': '362.21K', 'non_trainable': '0', 'total': '362.21K'}}
+2025-03-28-14-53: Resume from ./Checkpoints_PSM_T1_finetuning_24/checkpoint-finetune-23000.pt
+2025-03-28-14-53: Loaded checkpoint at step 23000
+2025-03-28-14-53: Begin to sample...
+2025-03-28-14-54: Sampling done, time: 52.27
